@@ -37,12 +37,12 @@ Telco Customer Churn Dataset (Kaggle)
 
 ## 📘 View Full Analysis
 Check the full notebook with visuals and markdown:  
-➡️ [Notebook on Kaggle](#) *(Add link after uploading)*
+➡️ [Notebook on Kaggle](#) *https://www.kaggle.com/code/aayushibaraskar/notebookacf6a16342*
 
 ## 🙋‍♀️ About Me
 Hi, I'm Ayushi — an aspiring data analyst with a passion for uncovering insights that drive business value.
 
-📫 Connect with me on [LinkedIn](#)
+📫 Connect with me on [LinkedIn](#)www.linkedin.com/in/ayushi-baraskar-86406a362
 
 ---
 
