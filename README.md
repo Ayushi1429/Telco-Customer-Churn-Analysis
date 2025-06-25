@@ -4,7 +4,7 @@ This project explores **customer churn patterns** in a real telecom dataset usin
 
 ## 🧰 Tools & Libraries Used
 - Python (Pandas, Seaborn, Matplotlib)
-- Jupyter / Google Colab
+- Google Colab
 - Data Visualization
 - Business Insight Derivation
 
@@ -23,10 +23,17 @@ This project explores **customer churn patterns** in a real telecom dataset usin
 - Offer discounts on yearly contracts
 - Bundle tech support and streaming services
 - Target high-churn segments with personalized offers
+  
+## 🔍 Key Insights
+
+- 📌 Customers with month-to-month contracts churn the most  
+- 📌 Higher monthly charges are linked to higher churn  
+- 📌 Gender does not significantly impact churn  
+- 📌 Customers without tech support churn more  
 
 ## 📎 Dataset Source
 Telco Customer Churn Dataset (Kaggle)  
-🔗 [Kaggle Dataset Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+🔗 (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ## 📘 View Full Analysis
 Check the full notebook with visuals and markdown:  
