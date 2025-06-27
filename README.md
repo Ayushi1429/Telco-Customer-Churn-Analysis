@@ -44,6 +44,5 @@ Hi, I'm Ayushi — an aspiring data analyst with a passion for uncovering insigh
 
 📫 Connect with me on [LinkedIn](#)www.linkedin.com/in/ayushi-baraskar-86406a362
 
----
 
 
